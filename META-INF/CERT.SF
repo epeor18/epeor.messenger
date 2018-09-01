@@ -1,5 +1,5 @@
 Signature-Version: 1.0
-SHA1-Digest-Manifest: fbnw7PYK8U4/eIkOXKfAtaVr4Ag=
+SHA1-Digest-Manifest: 0vutL4ukEXxMZZJKJ4cFAWfeJWU=
 Created-By: 1.0 (Android)
 
 Name: res/drawable-mdpi-v4/ic_speaker_notes_off_white_24dp.png
@@ -1207,7 +1207,7 @@ Name: res/drawable-xhdpi-v4/ic_send_text_offline_white.png
 SHA1-Digest: b5JUF9YBKDLxvWMcfTwsbeq86lE=
 
 Name: AndroidManifest.xml
-SHA1-Digest: sFYDe0rqSAh4xsSMXpjvEZJklA8=
+SHA1-Digest: 1GFaUWeSbtAFCR7C/rvCTL++RBU=
 
 Name: res/drawable-xxxhdpi-v4/ic_notification.png
 SHA1-Digest: ieph5tY/Y4XGBHJQ3udEhJr6CSs=
@@ -2227,7 +2227,7 @@ Name: res/layout/design_navigation_item.xml
 SHA1-Digest: fjW7fTeRWJbACqPVIwTdz20rpZ0=
 
 Name: classes.dex
-SHA1-Digest: 9QMXC+KaJNww2Vd/sxL1tJ3ZEg0=
+SHA1-Digest: +klxdWGGRXu+bOz/4xMtcIUkhEw=
 
 Name: res/drawable-xhdpi-v4/ic_settings_white_24dp.png
 SHA1-Digest: Cuyk/qvdTZ6e/hDSO577n0k5xB4=

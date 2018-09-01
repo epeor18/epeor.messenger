@@ -1207,7 +1207,7 @@ Name: res/drawable-xhdpi-v4/ic_send_text_offline_white.png
 SHA1-Digest: Z/m3nJuXoCzPTypM4NGAnv1IDk4=
 
 Name: AndroidManifest.xml
-SHA1-Digest: wq3uJhaaBZyRYek8ELAOBMpKWEs=
+SHA1-Digest: XClRgANKy4qDmECbRp+X+2at6es=
 
 Name: res/drawable-xxxhdpi-v4/ic_notification.png
 SHA1-Digest: Ztc3JRwA5ke94f0MnsBHvzJ5Qu4=
@@ -2357,7 +2357,7 @@ Name: res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
 SHA1-Digest: BjYXNIGGhyqIB4Vq4khlEepKSZk=
 
 Name: resources.arsc
-SHA1-Digest: Gg8Q48U40m/g3FZYLUxYatNa32E=
+SHA1-Digest: kr9org82WqzsuZzd6ATKbNDbqQE=
 
 Name: res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.pn
  g

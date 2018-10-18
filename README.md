@@ -1,4 +1,4 @@
-# ePeOr Messenger (Android platform)
+# ePe(O)r Messenger <img border="0" src="https://epeor.danwin1210.me/images/android.png" width="30" height="30">
 Az ePe(O)r Messenger üzenetküldő alkalmazás a Pix-Art-Messenger alapjából készült el néhány változtatással, az ePe(O)r Group személyes ötleteivel.
 
 A kapcsolat biztonsága és a személyes adatok védelme nagyon fontos számunkra, ezért a messenger és a szerver közötti titkosított kapcsolatokat érvényesítjük, így szinte lehetetlen megtekinteni és olvasni az üzeneteket idegeneknek. Ha ez nem elég az Ön számára, a végponttól végpontig terjedő üzenetek titkosítása, például OMEMO, OTR vagy OpenPGP is használható. Ez lehetővé teszi az üzenetek titkosítását a küldő eszközön, és csak a fogadásra szolgáló fogadóeszköz képes visszafejteni. Az 1.0.5-as verziótól kezdve egy lakat közvetlenül megjelenik a csevegésben, mindaddig, amíg titkosítottat ír, és a titkosítás lehetséges.

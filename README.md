@@ -29,7 +29,7 @@ A kapcsolat biztonsága és a személyes adatok védelme nagyon fontos számunkr
 <ul>
   <b>Letöltés</b>
 <li><a href="https://epe-o-r-messenger.hu.aptoide.com/?store_name=epeor">
-<img border="0" src="https://cdn6.aptoide.com/imgs/a/0/f/a0fa75907e641f99b87cf8ac25621cfd_icon.png?w=240" width="60" height="60"></a></li>
+<img border="0" src="https://cdn6.aptoide.com/imgs/a/0/f/a0fa75907e641f99b87cf8ac25621cfd_icon.png?w=240" width="20" height="20"> Letöltés az Aptoide áruházból!</a></li>
 </ul>
 
 
